@@ -17,7 +17,7 @@ It detects nearby Wi-Fi networks and displays details such as SSID, BSSID, and s
 ## Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/<your-username>/network-tool-python.git
+git clone https://github.com/behrambzkrr/network-tool-python.git
 cd network-tool-python
 pip install -r requirements.txt
 
